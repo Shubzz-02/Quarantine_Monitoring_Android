@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#9E9E9E</color>
+
+    <color name="gray">#5b5b5b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="iron">#212121</color>
+    <color name="primary">#757575</color>
+    <color name="title">#222222</color>
+
+    <color name="filters_chips">#757575</color>
+    <color name="filtersfab">#E8EAF6</color>
+    <color name="filters_buttons">#212121</color>
+    <color name="filters_buttons_selected">#C5CAE9</color>
+</resources>

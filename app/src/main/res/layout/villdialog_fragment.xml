@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/dialog_background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:text="Please Enter Village name" />
+
+
+    <EditText
+        android:hint="Village Name"
+        android:id="@+id/vill_name_add"
+        android:layout_margin="15dp"
+        android:inputType="text"
+        android:textColor="@color/gray"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" />
+
+
+    <Button
+        android:id="@+id/btnDone"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:padding="15dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:text="Done" />
+</LinearLayout>
